@@ -1,0 +1,8 @@
+@charset "U-TF8";
+@import url('https://fonts.googleapis.com');
+@import url('https://fonts.gstatic.com');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swav');
+
+body{
+    font-family: 'Pacifico', cursive;
+}
